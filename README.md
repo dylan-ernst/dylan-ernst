@@ -24,8 +24,8 @@ const dylan = {
 
 <br>
 
-<a href="https://github.com/dylan-ernst/Clear-Cut-Background-Image-Removal">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dylan-ernst&repo=ClearCut-Showcase&v=3&bg_color=161b22&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="ClearCut — AI background removal platform">
+<a href="https://github.com/dylan-ernst/ClearCut-Showcase">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dylan-ernst&repo=ClearCut-Showcase&v=3&bg_color=161b22&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="ClearCut, AI photo automation platform">
 </a>
 <a href="https://github.com/dylan-ernst/Web-Projects">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dylan-ernst&repo=Web-Projects&bg_color=161b22&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="web-projects — links to my websites and web apps">
